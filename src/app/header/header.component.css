@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.active-link {
+    color: #3f51b5;
+    background-color: #fff;
+}
